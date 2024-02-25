@@ -1,5 +1,6 @@
 # butternut
 Some candid shots of Butternut Antenna
+Basic radial routing is done around periphery of ham shack roof.  Grounds are run to grounding rod.
 
 ![PXL_20240224_233554846](https://github.com/jwestmoreland/butternut/assets/2308903/32d26f0b-9d23-46f0-99bb-94225c08f2d6)
 ![PXL_20240224_233609412-b](https://github.com/jwestmoreland/butternut/assets/2308903/6a54a0bd-0586-4868-a48a-77d03d6cc79a)
@@ -17,3 +18,6 @@ Some candid shots of Butternut Antenna
 ![PXL_20240224_233705889](https://github.com/jwestmoreland/butternut/assets/2308903/fd74c8b1-894e-4ea8-99cf-8c0aaa531dd4)
 
 ![PXL_20240224_233653436](https://github.com/jwestmoreland/butternut/assets/2308903/796a6d3b-a945-4529-b658-18e744b9ed8d)
+
+Grounding rod example here:
+https://www.homedepot.com/p/ERICO-3-4-in-x-10-ft-Copper-Ground-Rod-613400UPC/202195734
