@@ -1,6 +1,7 @@
 # butternut
-Some candid shots of Butternut Antenna
-Basic radial routing is done around periphery of ham shack roof.  Grounds are run to grounding rod.
+Some candid shots of Butternut Antenna.
+Basic radial routing is done around periphery of ham shack roof.
+Grounds are run to grounding rod.
 
 ![PXL_20240224_233554846](https://github.com/jwestmoreland/butternut/assets/2308903/32d26f0b-9d23-46f0-99bb-94225c08f2d6)
 ![PXL_20240224_233609412-b](https://github.com/jwestmoreland/butternut/assets/2308903/6a54a0bd-0586-4868-a48a-77d03d6cc79a)
